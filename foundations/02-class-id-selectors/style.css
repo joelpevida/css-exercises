@@ -1,0 +1,21 @@
+/* Example using classes and not using selectors*/
+.oddElement {
+  background-color: rgb(250, 174, 174);
+  font-size: 32px;
+  font-family: "Courier New", Courier, monospace;
+}
+.coolerElement {
+  font-size: 48px;
+}
+#evenElement2,
+#evenElement4 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#evenElement2 {
+  color: blue;
+  font-size: 64px;
+}
+#evenElement4 {
+  font-weight: bold;
+  background-color: rgb(170, 254, 170);
+}
