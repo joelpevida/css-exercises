@@ -1,4 +1,4 @@
-/* Using only selectors
+/* Using only types
 div p {
   background-color: yellow;
   color: red;
@@ -16,7 +16,7 @@ div p {
 }
 */
 
-/* Using both selectors and classes Option 1
+/* Using both types and classes Option 1
 div .text {
   background-color: yellow;
   color: red;
@@ -25,7 +25,7 @@ div .text {
 }
 */
 
-/* Using both selectors and classes Option 2*/
+/* Using both types and classes Option 2*/
 .container p {
   background-color: yellow;
   color: red;
